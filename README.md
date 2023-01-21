@@ -3,7 +3,6 @@
 <ul>
     <li>Tenho 17 anos e estou me dedicando ao estudo da programação.</li>
     <li>Atualmente estou buscando vaga na Universidade Federal de Goiás em algum curso de tecnologia (Engenharia de Software | Sistemas de Informação | Inteligência Artificial)</li>
-    <li>Sempre disposto a aprender coisas novas;</li>
     <li>Meu objetivo é me encontrar nesse mercado e ser o melhor que eu puder, independente da área que eu vá seguir.</li>
 </ul>
 
