@@ -1,4 +1,4 @@
-## Olá, me chamo Lucas e sou um iniciante na programação!
+## 👋 Olá, me chamo Lucas e sou um iniciante na programação!
 
 <ul>
     <li>Tenho 17 anos e estou me dedicando ao estudo da programação.</li>
