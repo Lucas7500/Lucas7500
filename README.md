@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Lucas e sou um iniciante na programação!
 
 <ul>
-    <li>Tenho 17 anos e estou me dedicando ao estudo da programação.</li>
+    <li>Tenho 18 anos e estou me dedicando ao estudo da programação.</li>
     <li>Meu objetivo é me encontrar nesse mercado e ser o melhor que eu puder, independente da área que eu vá seguir.</li>
     <li>Atualmente curso Sistemas de Informação na Universidade Federal de Goiás.</li>
 </ul>
