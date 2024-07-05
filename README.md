@@ -1,4 +1,4 @@
-# Hi, welcome to my github ^^
+# Hi, welcome to my GitHub ^^
 
 
 ## My name is Lucas
