@@ -1,16 +1,17 @@
-# Hi, welcome to my github 👋
+# Hi, welcome to my github ^^
+
 
 ## My name is Lucas
 <ul>
-    <li>I'm 18 years old and I'm currently studying programming, with an emphasis on the backend development.</li>
-    <li>I'm studying Software Engineering at the Federal University of Goiás.</li>
-    <li>I'm currently a junior web developer, working in both frontend and backend.</li>
+    <li>I'm 19 years old and I'm actually studying a lot of Back-End development and a little bit of DevOps.</li>
+    <li>I'm doing a bachelor's degree in Software Engineering at the Federal University of Goiás (UFG).</li>
+    <li>I'm currently considered a Junior Fullstack Web Developer, working in both Front-End (XML, JavaScript and SAPUI5) and Back-End (C#, .NET, SQL Server and RavenDB).</li>
 </ul>
 
 
 ## Skills
 <ul>
-    <li><b>Languages:</b> C#, JavaScript, Ruby, Python</li>
+    <li><b>Languages:</b> C#, JavaScript, Python, Ruby</li>
     <li><b>Frameworks:</b> .NET, SAPUI5</li>
     <li><b>Databases:</b> SQL Server, RavenDB</li>
     <li><b>Other:</b> Git, Docker</li>
