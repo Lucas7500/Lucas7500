@@ -11,7 +11,7 @@
 
 ## Skills
 <ul>
-    <li><b>Languages:</b> C#, JavaScript, Python, Ruby</li>
+    <li><b>Languages:</b> C#, JavaScript</li>
     <li><b>Frameworks:</b> .NET, SAPUI5</li>
     <li><b>Databases:</b> SQL Server, RavenDB</li>
     <li><b>Other:</b> Git, Docker</li>
