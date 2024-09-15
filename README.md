@@ -17,6 +17,9 @@
     <li><b>Other:</b> Git, Docker</li>
 </ul>
 
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7500&layout=compact&theme=radical)
+
 ### Contact me
 
 <a href = "mailto:lucasiglesias2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
