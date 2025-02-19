@@ -8,15 +8,6 @@
     <li>I'm currently considered a Junior Fullstack Web Developer, working in both Front-End (XML, JavaScript and SAPUI5) and Back-End (C#, .NET, SQL Server and RavenDB).</li>
 </ul>
 
-
-## Skills
-<ul>
-    <li><b>Languages:</b> C#, JavaScript</li>
-    <li><b>Frameworks:</b> .NET, SAPUI5</li>
-    <li><b>Databases:</b> SQL Server, RavenDB</li>
-    <li><b>Other:</b> Git, Docker</li>
-</ul>
-
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7500&layout=compact&theme=radical)
 
