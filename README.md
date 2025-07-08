@@ -4,11 +4,19 @@
 
 Tenho 20 anos e sou graduando em Engenharia de Software pela **Universidade Federal de Goiás (UFG)**. Sou apaixonado por desenvolvimento Back-End e por arquitetura de sistemas. Atualmente atuo como **Desenvolvedor Web Fullstack Júnior**, com experiência prática em:
 
-- 🖥️ **Back-End**: C#, .NET, Entity Framework Core, SQL Server, RavenDB  
-- 🌐 **Front-End**: SAPUI5 (UI5 Web Components)  
-- ⚙️ **DevOps (em aprendizado)**: Conteinerização, automação de deploys e fundamentos de CI/CD  
+- **Back-End**: C#, .NET, .NET Framework, ASP.NET, Entity Framework Core, Dapper, Linq2Db, SQL Server, RavenDB, MongoDB
+- **Front-End**: HTML, CSS, JavaScript, SAPUI5, noções de Angular e React
+- **APIs REST** com autenticação via JWT e filtros de requisição
+- **Testes**: xUnit, NUnit e integração com OPA5
+- **Princípios e Arquitetura**: SOLID, Clean Code, KISS, DRY, YAGNI, Object Calisthenics, Clean Architecture, Onion Architecture, N-Layers
+- **Padrões**: Design Patterns (GoF - criacionais, estruturais, comportamentais), CQRS
+- **Banco de Dados**: SQL e NoSQL, queries otimizadas com indexes e MapReduce
+- **Mensageria**: RabbitMQ, MassTransit e noções de Kafka
+- **Cache/Search**: Redis, Elasticsearch
+- **DevOps**: Orquestração com Docker, noções de deploy em Google Cloud
+- **Outros**: Serviços WCF, protocolo SOAP, Git, metodologias ágeis (Scrum/Kanban)
 
-Me interesso por desenvolver softwares robustos, aplicando princípios de Clean Architecture, Domain-Driven Design e soluções escaláveis de dados — sempre buscando escrever código limpo, performático e de fácil manutenção. Também tenho familiaridade com padrões como CQRS, Design Patterns do GoF (Gang of Four), modelo de programação MapReduce e uso de sistemas de mensageria como o RabbitMQ. Sou extremamente curioso, adaptável e estou sempre disposto a aprender! 
+Me interesso por desenvolver softwares robustos, aplicando boas práticas de arquitetura e soluções escaláveis de dados — sempre buscando escrever código limpo, performático e de fácil manutenção. Sou extremamente curioso, adaptável e estou sempre disposto a aprender!
 
 ---
 
