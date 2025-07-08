@@ -2,7 +2,7 @@
 
 ## Eu sou Lucas Moreira Iglesias
 
-Tenho 20 anos e sou graduando em Engenharia de Software pela **Universidade Federal de Goiás (UFG)**. Sou apaixonado por desenvolvimento Back-End e por arquitetura de sistemas. Atualmente atuo como **Desenvolvedor Web Fullstack Júnior**, com experiência prática em:
+Tenho 20 anos e sou graduando em Engenharia de Software pela **Universidade Federal de Goiás (UFG)**. Sou apaixonado por desenvolvimento Back-End e por arquitetura de sistemas. Atualmente atuo como **Desenvolvedor .NET**, com experiência prática em:
 
 - **Back-End**: C#, .NET, .NET Framework, ASP.NET, Entity Framework Core, Dapper, Linq2Db, SQL Server, RavenDB, MongoDB
 - **Front-End**: HTML, CSS, JavaScript, SAPUI5, noções de Angular e React
